@@ -2,9 +2,24 @@ application:  lively-folder-850
 version: 1
 runtime: python27
 api_version: 1
-threadsafe: yes
+threadsafe: no
 
 handlers:
 - url: /
   static_files: index.html
   upload: index.html
+  
+  
+  test1
+  
+  
+  
+  test line 2
+  
+  something something something 
+  a;skldjfh
+  aklsdjfjfa
+  
+  afs{}}af
+  
+  asdlfjjjjjjjj
